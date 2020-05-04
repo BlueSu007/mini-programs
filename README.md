@@ -1,4 +1,4 @@
-# small-programs
+# mini-programs
 write small-programs in Lang-c++, welcome update~
 
 contact: 
